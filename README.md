@@ -110,7 +110,7 @@ algorithms that turn raw signals into decisions.
 ### 🏆 Awards & Recognition
 
 - **TÜBİTAK 100. Yıl Başarı Ödülü** — GTU 100th Anniversary Ceremony, 2023
-- **TEKNOFEST OTR Qualification** — MONARK Rocket Project, 2023
+- **TEKNOFEST OTR Qualification** — MONARK Rocket Project, 2021
 - **TÜBİTAK 2209-A Research Grant** — IKA Autonomous Unmanned Ground Vehicle
 
 ---

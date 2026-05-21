@@ -1,132 +1,195 @@
 <h1 align="center">Nariman Rzayev</h1>
-<h3 align="center">Embedded Systems & Smart Automation Engineer · IoT · FPGA · AI-Driven Vision</h3>
+<h3 align="center">
+Embedded Systems Engineer · Intelligent Automation · IoT · Edge AI
+</h3>
 
 ---
 
-I build embedded systems that have to work the first time — flight computers, autonomous
-ground vehicles, and AI perception modules for unmanned platforms. My focus is the full
-stack of a real device: power distribution, sensor integration, firmware, and the
-algorithms that turn raw signals into decisions.
+## About Me
+
+I design and develop intelligent embedded systems that combine hardware, firmware, industrial communication, and AI-driven data processing.
+
+My primary focus is building real-world systems that interact with physical environments reliably — from avionics and autonomous platforms to industrial automation and smart sensing infrastructures.
+
+I work across the full stack of embedded engineering:
+
+- Embedded firmware
+- Sensor integration
+- Industrial communication
+- PCB design
+- Edge computing
+- AI-assisted perception systems
+- Autonomous and distributed IoT architectures
+
+Most of my projects are centered around systems that must operate in real environments under real constraints.
 
 ---
 
-- 🌱 I'm currently learning **advanced FPGA design, real-time control systems, and edge AI for autonomous platforms**
-- 💬 Ask me about **Embedded Firmware · IoT Architecture · FPGA / HDL · YOLO-based Object Detection · Avionics**
-- ⚡ Fun fact: **I designed a complete model rocket avionics stack — schematic to flight — as the only embedded engineer on the team**
+## Core Engineering Areas
+
+### Embedded Systems
+- ESP32
+- Raspberry Pi
+- Arduino
+- STM32 (learning)
+- Real-time sensor integration
+- Firmware development in C/C++
+
+### Industrial & IoT Systems
+- RS232 / RS485 communication
+- UART / SPI / I2C protocols
+- LoRa communication systems
+- Distributed sensor networks
+- Industrial automation architectures
+
+### Hardware & PCB Design
+- KiCad
+- Power distribution systems
+- Buck / Boost converter integration
+- Sensor and actuator interfacing
+- Embedded electronics prototyping
+
+### FPGA & Digital Design
+- VHDL
+- Verilog
+- Quartus Prime
+- RTL system design
+- FSM architectures
+
+### AI & Computer Vision
+- Python
+- OpenCV
+- NumPy
+- YOLOv7
+- Edge AI concepts
+- Image preprocessing pipelines
 
 ---
 
-### 🔧 Embedded Systems & Hardware
+# Featured Projects
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/> |
-|:-:|:-:|:-:|:-:|:-:|
-| C | C++ | Arduino | ESP32 | Raspberry Pi |
+## 🚀 MONARK Rocket Avionics System
+TEKNOFEST rocket project focused on developing a custom avionics and telemetry architecture.
 
-- **C / C++** — the language of everything that runs close to the metal; flight computers, sensor drivers, real-time loops
-- **Arduino IDE** — fast prototyping on AVR and ESP32 targets when I need a working firmware build in minutes
-- **ESP32** — my default microcontroller for IoT and field-deployable systems; Wi-Fi, BLE, and enough horsepower for real-time sensor fusion
-- **Raspberry Pi** — when I need a Linux userspace on the edge for vision or networking workloads
-
----
-
-### 🔌 Protocols & Interfaces
-
-| <img src="https://img.shields.io/badge/I²C-005571?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/SPI-1A1A1A?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/UART-4A154B?style=for-the-badge&logoColor=white" height="40"/> |
-|:-:|:-:|:-:|
-| I²C | SPI | UART |
-
-- **I²C** — multi-sensor buses for IMUs, barometers, and environmental sensors; one pair of wires, many devices
-- **SPI** — high-speed peripheral access where latency matters; SD cards, displays, fast ADCs
-- **UART** — the universal serial fallback for telemetry, debug consoles, and module-to-module communication
+### Highlights
+- Flight computer firmware development
+- IMU & barometric sensor integration
+- PCB schematic and layout design
+- Aerodynamic simulation with OpenRocket
+- Telemetry and sensor communication systems
 
 ---
 
-### 🧠 FPGA & Digital Design
+## 🌲 Smart Forest Fire Detection System
+Autonomous LoRa-based environmental monitoring and fire detection platform.
 
-| <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/Verilog-1A8FE5?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="40"/> |
-|:-:|:-:|:-:|
-| VHDL | Verilog | Quartus Prime |
-
-- **VHDL / Verilog** — RTL design for combinational and sequential logic, FSMs, and pipelined datapaths
-- **Quartus Prime** — synthesis, place-and-route, and timing analysis on Intel/Altera FPGAs
-
----
-
-### ⚡ Circuit Design & Simulation
-
-| <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/LTspice-A41E22?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/Multisim-2E8B57?style=for-the-badge&logoColor=white" height="40"/> | <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" height="40"/> |
-|:-:|:-:|:-:|:-:|
-| KiCad | LTspice | NI Multisim | MATLAB |
-
-- **KiCad** — schematic capture and PCB layout, including EMC-aware routing and power-plane separation for flight-critical boards
-- **LTspice** — analog simulation for power converters, filters, and signal-path verification before committing to copper
-- **NI Multisim** — mixed-signal circuit prototyping during early design exploration
-- **MATLAB** — control-system modeling, signal processing, and numerical analysis
+### Highlights
+- Solar-powered IoT node architecture
+- Environmental sensor fusion
+- Long-range LoRa communication
+- Raspberry Pi based central analysis system
+- Automated sprinkler and pump triggering
 
 ---
 
-### 🚀 IoT & Power Systems
+## 🤖 Autonomous Ground Vehicle (IKA)
+TÜBİTAK-supported unmanned ground vehicle for real-time environmental monitoring.
 
-- **IoT system architecture** — end-to-end design from sensor node to wireless gateway to data sink
-- **Power management** — buck/boost converter design for stable multi-rail supplies under variable load, the unglamorous half of every embedded project that decides whether it actually works in the field
-
----
-
-### 🤖 AI & Computer Vision
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40"/> | <img src="https://img.shields.io/badge/YOLOv7-00FFFF?style=for-the-badge&logoColor=black" height="40"/> |
-|:-:|:-:|:-:|:-:|
-| Python | NumPy | OpenCV | YOLOv7 |
-
-- **Python** — scripting, automation, and the glue holding ML pipelines together
-- **NumPy** — numerical heavy lifting for image preprocessing and signal analysis
-- **OpenCV** — image processing pipelines: noise reduction, contrast enhancement, color-space work
-- **YOLOv7** — object detection model training and hyperparameter optimization, including underwater datasets for UUV perception
+### Highlights
+- ESP32-based embedded architecture
+- Motor driver integration
+- Wireless telemetry systems
+- Environmental sensing infrastructure
+- Autonomous field data collection
 
 ---
 
-### 🛰️ Simulation & Aerospace
+## ⚡ ProtFlux Industrial Automation Platform
+Industrial laboratory automation and device orchestration system.
 
-| <img src="https://img.shields.io/badge/OpenRocket-FF6F00?style=for-the-badge&logoColor=white" height="40"/> |
-|:-:|
-| OpenRocket |
-
-- **OpenRocket** — aerodynamic stability analysis (CP/CG margins, drag coefficients) and flight-path simulation for model rockets
-
----
-
-### 💻 Software & Tooling
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/> |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Java | JavaScript | HTML | CSS | VS Code | Eclipse |
-
-- **Java** — object-oriented application development
-- **JavaScript / HTML / CSS** — web interfaces, often as dashboards or telemetry frontends for embedded projects
-- **VS Code & Eclipse** — daily-driver IDEs for embedded, Python, and Java work
+### Highlights
+- RS232 / RS485 device communication
+- Raspberry Pi centralized controller
+- Multi-device synchronization
+- Real-time process monitoring
+- Industrial data pipeline development
 
 ---
 
-### 🏆 Awards & Recognition
+## 🛰️ Computer Vision for Underwater Detection
+AI-assisted underwater object detection project using deep learning.
 
-- **TÜBİTAK 100. Yıl Başarı Ödülü** — GTU 100th Anniversary Ceremony, 2023
-- **TEKNOFEST OTR Qualification** — MONARK Rocket Project, 2021
-- **TÜBİTAK 2209-A Research Grant** — IKA Autonomous Unmanned Ground Vehicle
-
----
-
-### 🌍 Languages
-
-- **Azerbaijani Turkish** — C2 (Native)
-- **Turkish** — C1 (Advanced)
-- **English** — B2 (Upper-Intermediate)
-- **Russian** — A2 (Beginner)
+### Highlights
+- YOLOv7 object detection
+- Image preprocessing pipelines
+- Underwater visibility optimization
+- AI-based perception systems
 
 ---
 
-### 📫 Contact
+# Technical Stack
 
-- 📧 **rzayev.neriman06@gmail.com**
-- 📱 **+90 545 160 68 61**
-- 📍 **Darıca, Kocaeli, Türkiye**
-- 💼 [LinkedIn](https://linkedin.com/in/nariman-rzayev) · [GitHub](https://github.com/nariman-rzayev)
+## Languages
+- C
+- C++
+- Python
+- Java
+- JavaScript
+- HTML / CSS
+- VHDL
+- Verilog
+
+---
+
+## Tools & Frameworks
+- Arduino IDE
+- VS Code
+- KiCad
+- Quartus Prime
+- MATLAB
+- OpenRocket
+- LTspice
+- Git / GitHub
+
+---
+
+# Engineering Philosophy
+
+I enjoy building systems where software directly interacts with the physical world.
+
+My engineering mindset is heavily focused on:
+- system reliability
+- modular architecture
+- hardware/software integration
+- real-world testing
+- iterative prototyping
+
+I prefer learning by building, debugging, testing, and improving real systems.
+
+---
+
+# Awards & Recognition
+
+- TÜBİTAK 2209-A Research Support
+- GTU 100th Year Achievement Award
+- TEKNOFEST Rocket Project Finalist Processes
+
+---
+
+# Currently Exploring
+
+- Advanced FPGA architectures
+- Real-time control systems
+- Industrial automation
+- Edge AI systems
+- Autonomous robotic platforms
+
+---
+
+# Contact
+
+📍 Kocaeli, Türkiye  
+📧 rzayev.neriman06@gmail.com  
+💼 LinkedIn: linkedin.com/in/nariman-rzayev
+
+---

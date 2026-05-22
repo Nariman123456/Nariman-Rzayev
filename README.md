@@ -1,63 +1,138 @@
-# Hi there, I'm Nariman! 👋
+<h1 align="center">Nariman Rzayev</h1>
 
-I am a **Systems & Embedded AI Engineer** focused on building intelligent, connected, and autonomous hardware ecosystems. My core strength lies in **Systems Integration**—bridging the gap between physical hardware, communication protocols, and AI-driven data analysis.
+<h3 align="center">
+Embedded Systems · AIoT · Edge AI · Intelligent Robotics
+</h3>
 
-Instead of looking at isolated domains, I specialize in combining **Embedded Systems, IoT, Robotics, and Data Science** into unified, production-ready solutions.
-
----
-
-## 🚀 My Core Philosophy: "Systems Integration"
-> *"I build intelligent embedded systems that combine sensing, communication, automation, and AI-driven decision making."*
-
-I believe that AI is only as powerful as its connection to the physical world. My technical spine is rooted in solid **Embedded & Hardware Engineering**, while AI and Robotics serve as upper-layer capabilities to make systems smarter.
+<p align="center">
+I design intelligent systems that connect hardware, data, communication, and AI into real-world autonomous platforms.
+</p>
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🚀 About Me
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Embedded & Hardware** | C/C++, Microcontrollers (ESP32, STM32), PCB Design (KiCad), Circuit Prototyping |
-| **Edge AI & Data Science** | Python, MATLAB, NumPy, Pandas, Matplotlib, Edge AI, Digital Signal Processing (DSP) |
-| **Systems & Communication** | RS485 (Modbus/Daisy Chain), LoRa, Wi-Fi, $I^2C$, SPI, UART |
-| **Robotics & Automation** | Actuators & Pumps Control, Automation Pipelines, Industry 4.0 Architectures |
+I am focused on building next-generation intelligent systems by combining:
 
----
+- Embedded Systems
+- IoT Architectures
+- Edge AI
+- Robotics Integration
+- Industrial Automation
+- Real-Time Data Processing
 
-## 📂 Key Projects & Systems Built
+My engineering approach is system-oriented.
 
-### 🏭 [EnergySense AI] - Industrial Energy Optimization Platform
-*An Industry 4.0 compliant, AI-supported corporate dashboard system designed for factory energy monitoring and peak usage optimization.*
-* **Integration:** Connected industrial sensors to a high-level data pipeline to perform predictive analysis on power consumption.
-* **Tech Stack:** Data Analysis, UI/UX Design, Industrial Systems Integration.
+Instead of focusing on only one layer of technology, I work on the complete pipeline:
 
-### 🎛️ [Multi-Pump RS485 Control System] - Industrial Automation
-*A scalable automation setup designed to control multiple peristaltic pumps using a Daisy Chain configuration.*
-* **Integration:** Built a reliable hardware network using Waveshare USB to 4-Ch RS485 to synchronize multi-node actuator actions.
-* **Tech Stack:** RS485, Daisy Chain Hardware Topology, Embedded Automation.
+```text
+Sensor → Embedded Firmware → Communication → Data → AI → Autonomous Action
 
-### 🪵 [EcoPipeline] - Environmental Risk & Climate Monitoring
-*An automated data collection and analysis pipeline designed to track forest fire risks and freshwater crises.*
-* **Integration:** Integrated real-time environmental data streams (Open-Meteo, DSİ, OGM) into a Python-based analysis model.
-* **Tech Stack:** Python, Data Pipelines, Climate & Sustainability Analytics.
+I enjoy designing systems where hardware, software, and intelligence operate together as a unified architecture.
 
-### 📉 [DSP Lab & Signal Analyzer] - Digital Signal Processing
-*A comprehensive workspace for frequency-domain analysis and periodic signal plotting.*
-* **Integration:** Translated mathematical frequency theories into real-time Python algorithms for processing raw sensor signals.
-* **Tech Stack:** Python, DSP, Simulation & Visualization.
+🧠 Core Engineering Domains
+<table> <tr> <td align="center" width="33%">
+🔌 Embedded Systems
 
----
+ESP32 · STM32 · Raspberry Pi
+C/C++ · RT Systems
+Sensor Integration
+PCB Design · Power Systems
 
-## 🎯 What I Am Looking For
-I thrive in cross-functional environments where hardware meets intelligent software. I am open to collaborating on:
-* **Edge AI & AIoT** applications (Running ML models on microcontrollers/Jetson platforms).
-* **Industrial Automation** and hardware network scaling.
-* **Robotics Integration** involving complex sensor-actuator feedback loops.
+</td> <td align="center" width="33%">
+🌐 AIoT & Automation
 
----
+Industrial Communication
+LoRa · UART · SPI · I2C
+RS485 / Modbus
+Remote Monitoring Systems
 
-## 📬 Connect with Me
+</td> <td align="center" width="33%">
+🤖 AI & Robotics
 
-* 💼 **LinkedIn:** [your-linkedin-username](https://linkedin.com/in/your-username)
-* 📧 **Email:** [your.email@example.com]
-* 🌐 **Languages:** Turkish | English | Russian | Azerbaijani
+Computer Vision
+YOLOv7
+Edge AI
+Autonomous Systems
+Real-Time Decision Systems
+
+</td> </tr> </table>
+⚡ Technology Stack
+🔧 Embedded & Hardware
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="45"/> </p>
+ESP32
+Raspberry Pi
+Sensor Fusion
+Embedded Firmware
+Power Management
+PCB Design (KiCad)
+🌐 Communication & IoT
+<p align="left"> <img src="https://img.shields.io/badge/I2C-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/SPI-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/UART-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/LoRa-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/RS485-red?style=for-the-badge"/> </p>
+IoT Node Design
+Wireless Sensor Networks
+Industrial Device Communication
+Real-Time Data Transfer
+Distributed Embedded Systems
+🤖 AI & Computer Vision
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="45"/> </p>
+YOLOv7 Object Detection
+Edge AI Systems
+Computer Vision
+Signal & Data Processing
+AI-Assisted Automation
+🧠 FPGA & Digital Design
+<p align="left"> <img src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge"/> <img src="https://img.shields.io/badge/Verilog-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge"/> </p>
+FPGA Architecture
+RTL Design
+Digital Logic Systems
+Hardware Optimization
+🚀 Featured Engineering Areas
+🛰️ Aerospace & Avionics
+Rocket Flight Computers
+Telemetry Systems
+Sensor Processing
+Flight Stability Analysis
+🌲 Autonomous Environmental Systems
+Smart Forest Fire Detection
+AI-Assisted Risk Analysis
+Solar Powered IoT Nodes
+Autonomous Irrigation Systems
+🏭 Industrial Automation
+Laboratory Automation
+Pump & Scale Integration
+RS232 / RS485 Systems
+Industrial Data Pipelines
+📌 Engineering Philosophy
+A real engineering system is not only code.
+
+It is:
+- reliable hardware
+- stable communication
+- clean power delivery
+- meaningful data
+- intelligent decision making
+- and autonomous action
+working together.
+🏆 Awards & Achievements
+TÜBİTAK 2209-A Research Support
+GTU 100th Anniversary Achievement Award
+TEKNOFEST Rocket Project Qualification
+FPGA & Digital Design Finalist Projects
+🌍 Languages
+Azerbaijani Turkish — Native
+Turkish — Advanced
+English — Professional Working Level
+Russian — Beginner
+📫 Contact
+
+📧 rzayev.neriman06@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/nariman-rzayev
+
+🌐 GitHub:
+https://github.com/nariman-rzayev
+
+📍 Kocaeli / Türkiye
+
+<p align="center"> Building intelligent systems where embedded hardware meets AI-driven autonomy. </p> ```
